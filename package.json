@@ -1,7 +1,7 @@
 {
-  "name": "random-messages",
+  "name": "school-random-messages",
   "version": "1.0.0",
-  "description": "random de mensajes",
+  "description": "paquete random de mensajes",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,13 @@
   "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosario1305/school-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rosario1305/school-random-messages/issues"
+  },
+  "homepage": "https://github.com/Rosario1305/school-random-messages#readme"
 }
