@@ -13,10 +13,6 @@
   ],
   "author": "Rosario Ortiz <pochimoshy@gmail.com>",
   "license": "MIT",
-  "bin": {
-    "random-msg": "./bin/global.js"
-  },
-  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rosario1305/school-random-messages.git"
@@ -24,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Rosario1305/school-random-messages/issues"
   },
-  "homepage": "https://github.com/Rosario1305/school-random-messages#readme"
+  "homepage": "https://github.com/Rosario1305/school-random-messages#readme",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
